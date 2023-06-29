@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-My name is Nataniel, I working in the position of Junior Android Developer.
+My name is Nataniel, I'm working in the position of Junior Android Developer.
 
 ### I'm currently working on a few projects: 
 * [Bench Project](https://github.com/Nataniel-Antosik/Bench_Project) application to show movies from public API and to learn new things from Android,
